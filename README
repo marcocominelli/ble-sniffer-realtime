@@ -1,0 +1,12 @@
+BLE Full-Band Sniffer
+---------------------
+
+To compile:
+    $ mkdir build
+    $ cd build
+    $ cmake ..
+    $ make
+
+To print an help message with all the parameters accepted by the program, run it with:
+    $ ./bledecoder --help
+
